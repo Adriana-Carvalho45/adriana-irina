@@ -1,3 +1,4 @@
     Site que fala sobre a criação dos Dandrois
     
-    ![bugdroid](https://github.com/Adriana-Carvalho45/adriana-irina/assets/155341374/d2af9cb2-2728-4827-afdb-ddb084137e40)
+    ![dan-droids-pq](https://github.com/Adriana-Carvalho45/adriana-irina/assets/155341374/f9f0aa70-ab94-4d97-8a5a-62741e004faf)
+
